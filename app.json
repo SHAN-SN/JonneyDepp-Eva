@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/SHAN-SN/Jonneydepp-Eva",
-    "repository": "https://github.com/SHAN-SN/Jonneydepp-Eva",
+    "repository": "https://github.com/SHAN-SN/Jonneydepp",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
