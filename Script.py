@@ -100,9 +100,9 @@ This module only works for my admins
 Group = {}(<code>{}</code>) {chatname}
 Total Members = <code>{}</code>
 Added By - {}
-Full Info - 【First Name : {first} Last Name : {last}
+Full Info - 【{first} {last}
 User Name : {username} | {mention}
-DC id : {dcid}
+DC id : {dcid}】
 Bot - <a href=https://t.me/{}>{}</a>
 """
     LOG_TEXT_P = """#NewUser Started Bot
