@@ -97,10 +97,10 @@ This module only works for my admins
 ★ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
 ★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱"""
     LOG_TEXT_G = """#NewGroup Added
-Group = {}(<code>{}</code>) {chatname}
+Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
 Added By - {}
-DC id : {}
+DC id - {}
 Bot - <a href=https://t.me/{}>{}</a>
 """
     LOG_TEXT_P = """#NewUser Started Bot
