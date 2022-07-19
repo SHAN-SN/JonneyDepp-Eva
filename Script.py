@@ -106,5 +106,4 @@ Bot - <a href=https://t.me/{}>{}</a>
     LOG_TEXT_P = """#NewUser Started Bot
 #ID<code>{}</code>
 Name - {}
-Bot - <a href=https://t.me/{}>{}</a>
-"""
+Bot - @JohnnyDeppRobot"""
